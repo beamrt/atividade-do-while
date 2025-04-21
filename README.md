@@ -1,5 +1,8 @@
-Atividade utilizando a estrutura "Do/While" 
-Linguagem utilizada: C++ 
+<h2> Atividade utilizando a estrutura "Do/While" </h2> 
+<p> Atividade utilizada: </p>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /></a>
+          
+          
 
 :hammer: Funcionalidades da atividade.
 
