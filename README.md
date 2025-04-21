@@ -1,6 +1,6 @@
 <h2> Atividade utilizando a estrutura "Do/While" </h2> 
 <p> Atividade utilizada: </p>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /></a>
+<a><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/></a>
           
           
 
